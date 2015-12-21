@@ -1,0 +1,28 @@
+.wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.left-col {
+    float: left;
+    width: 25%;
+}
+
+.right-col {
+    float: right;
+    width: 75%;
+}
+
+img {
+    max-width: 95%;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    width: 95%;
+}
