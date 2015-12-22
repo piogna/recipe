@@ -21,8 +21,9 @@ ul {
     padding-left: 0px;
 }
 
-li {
+ul li {
     text-align: center;
     list-style-type: none;
     width: 95%;
+    padding-bottom: 5px;
 }
